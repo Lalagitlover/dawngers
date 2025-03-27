@@ -1263,7 +1263,6 @@
     height: 100%;
     /* makes it act like a background image */
     object-fit: cover;
-    position: absolute;
     top: 0;
     left: 0;
   }
